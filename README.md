@@ -2,4 +2,4 @@
 
 [baidu] (https://baidu.com)
 
-[ds](post/data_structure/preface.md)
+[ds](post/data_structure/图.md)
