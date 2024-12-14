@@ -2,4 +2,4 @@
 
 [baidu] (https://baidu.com)
 
-[ds](BasicDataStructure.md)
+[ds](post/data_structure/preface.md)
